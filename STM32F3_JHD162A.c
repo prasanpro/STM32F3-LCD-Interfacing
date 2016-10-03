@@ -1,4 +1,4 @@
-// THis code is with reference to EE herald
+// THis code is with reference to EE herald, testing branches by Prasan
 //http://www.eeherald.com/section/design-guide/sample_lcd_c_programs.html
 
 #include <stdio.h>
